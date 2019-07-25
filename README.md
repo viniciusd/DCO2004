@@ -2,7 +2,7 @@
 
 # Apresentação da Disciplina (24/07/2019)
 
-### [Apresentação](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_VM.ipynb)
+### [Apresentação](https://github.com/vicentesousa/DCO2004/blob/master/2019_2_Unidade_I_Apresenta%C3%A7%C3%A3o_da_disciplina_DCO_2004.pdf)
 
 
 # UNIDADE I
