@@ -8,67 +8,35 @@
 # UNIDADE I
 
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)
-
-### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_VM.ipynb)
-### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_VM_18.04.ipynb)
-
+### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_VM.ipynb)
+### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_VM_18.04.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
 
-**TODOS:**
-- **Ravan e Lucas:** 
-   - Testar Hands-on para criação do UBUNTU 18.04.2. **Status:** Novo.
-   - Criar máquinas virtuais UBUNTU 14.04.06 ou 18.04.2 e colocá-las no nosso repositório (ver com Thiago). **Status:** Novo.
-   
-
-### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_BJ.ipynb)
-### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_BJ_18.04.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_BJ.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_BJ_18.04.ipynb)
 **Objetivos**
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-**TODOS:**
-- **Gabriel:** criar um hands-on para o Unbuntu Ubuntu 18.04.2 LTS (Bionic Beaver). **Status:** novo.  
-- **Ravan e Lucas:** 
-   - Testar Hands-on para criação do UBUNTU 18.04.2. **Status:** Novo.
-   - Fazer o upadte nas máquinas virtuais nas máquinas virtuais UBUNTU 14.04.05 ou 18.04.2 e colocá-las no nosso repositório (ver com Thiago). **Status:** Novo.
-
-### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_JM.ipynb)
-### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_JM_18.04.ipynb)
+### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 14.04.06)](https://github.com/vicentesousa/DCO2004/blob/master/h00_JM.ipynb)
+### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 18.04.2)](https://github.com/vicentesousa/DCO2004/blob/master/h00_JM_18.04.ipynb)
 **Objetivos**
 - Instalar do Matlab 2015a
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
 - Fazer um primeiro uso do Matlab dentro dos Notebooks
 
-**TODOS:**
-- **Gabriel:** criar um hands-on para o Unbuntu Ubuntu 18.04.2 LTS (Bionic Beaver). **Status:** novo.  
-- **Ravan e Lucas:** 
-   - Testar Hands-on do UBUNTU 18.04.2. **Status:** Novo.
-   - Fazer o upadte nas máquinas virtuais UBUNTU 14.04.05 ou 18.04.2 e colocá-las no nosso repositório (ver com Thiago). **Status:** Novo.
-
-### [Github: criação de seu próprio repositório (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_GIT.ipynb)
-### [Github: criação de seu próprio repositório (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_GIT_18.04.ipynb)
+### [Github: criação de seu próprio repositório (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_GIT.ipynb)
+### [Github: criação de seu próprio repositório (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_GIT_18.04.ipynb)
 **Objetivos**
 - Cadastramento no GitHub
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
-
-**TODOS:**
-- **Gabriel:** criar um hands-on para o Unbuntu Ubuntu 18.04.2 LTS (Bionic Beaver). **Status:** feito.  
-- **Ravan e Lucas:** 
-   - Testar Hands-on do UBUNTU 18.04.2. **Status:** Novo.
-   - Fazer o upadte nas máquinas virtuais UBUNTU 14.04.06 ou 18.04.2 e colocá-las no nosso repositório (ver com Thiago). **Status:** Novo.
-
    
-### [Entregáveis do Hands-on 00 (07/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_relatorio.ipynb)
-
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). Criar máquinas virtuais Ubuntu 14.04.05 e 18.04.2. Colocá-las no nosso servidor (ver com Thiago) e colocar o link no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2) **Status:** novo.
+### [Entregáveis do Hands-on 00 (07/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_relatorio.ipynb)
 
 <!---
 
