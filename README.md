@@ -2,6 +2,9 @@
 
 # Apresentação da Disciplina (24/07/2019)
 
+### [Apresentação](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019_2_dev/blob/master/h00_VM.ipynb)
+
+
 # UNIDADE I
 
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)
