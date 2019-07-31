@@ -1,6 +1,4 @@
-# Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2019.2)
-
-# Apresentação da Disciplina (24/07/2019)
+# Repositório da disciplina de Laboratório de Prototipagem de Sistemas de Comunicações (2019.2)
 
 ### [Apresentação](https://github.com/vicentesousa/DCO2004/blob/master/2019_2_Unidade_I_Apresenta%C3%A7%C3%A3o_da_disciplina_DCO_2004.pdf)
 
