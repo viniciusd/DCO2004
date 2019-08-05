@@ -38,7 +38,7 @@
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
    
-### [Entregáveis do Hands-on 00 (07/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_relatorio.ipynb)
+### [Entregáveis do Hands-on 00 (14/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_relatorio.ipynb)
 
 <!---
 
