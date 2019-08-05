@@ -40,42 +40,28 @@
    
 ### [Entregáveis do Hands-on 00 (14/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_relatorio.ipynb)
 
-<!---
 
 ## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)
 
-### [O que devemos saber para começar a programar com Matlab](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h01_matlab.ipynb)
+### [O que devemos saber para começar a programar com Matlab](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_matlab.ipynb)
 **Objetivos**
 - Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
 - Apresentar operações básicas com o Matlab
 - Apresentar o processo de Debug (depuração) no Matlab e no Python 3
 - Entender como é vantajoso a programação matricial com Matlab
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
    
-### [O que devemos saber para começar a programar com Python 3](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h01_python.ipynb)
+### [O que devemos saber para começar a programar com Python 3](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_python.ipynb)
 **Objetivos**
 - Apresentar vantagens de usar o Python3
 - Apresentar onde encontrar informações sobre o Python 3
 - Apresentar operações básicas com o Python 3
 - Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
    
-### [Entregáveis do Hands-on 01 (21/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h01_relatorio.ipynb)
+### [Entregáveis do Hands-on 01 (21/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_relatorio.ipynb)
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
+<!---
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) (21/08/2019)
 
