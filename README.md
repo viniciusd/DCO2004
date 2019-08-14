@@ -6,12 +6,12 @@
 # UNIDADE I
 
 <details>
-<summary><h2>
+<summary><h3>
 Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)
-</h2></summary>
+</h3></summary>
 <p>
 <h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM.ipynb">Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)</a></h3></br>
-<h2>[Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)</h2></br>
+<h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb">Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)</a></h3></br>
 <b>Objetivos:</b></br>
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
