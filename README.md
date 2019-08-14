@@ -48,6 +48,7 @@ Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 
 <p>
 <h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb">O que devemos saber para começar a programar com Matlab</a></h3>
 <b>Objetivos</b></br>
+
 - Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
 - Apresentar operações básicas com o Matlab
