@@ -42,9 +42,11 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 </p>
 </details>
 <details>
-<summary><h3>Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)</h3></summary>
+<summary><h3>
+Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)
+</h3></summary>
 <p>
-<h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb">O que devemos saber para começar a programar com Matlab</a><h3>
+<h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb">O que devemos saber para começar a programar com Matlab</a></h3>
 <b>Objetivos</b></br>
 - Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
