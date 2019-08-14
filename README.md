@@ -12,26 +12,26 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 <p>
 <h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM.ipynb">Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)</a></h3>
 <h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb">Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)</a></h3>
-<b>Objetivos:</b>
+<b>Objetivos:</b></br>
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_BJ.ipynb)
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_BJ_18.04.ipynb)
-<b>Objetivos</b>
+<b>Objetivos</b></br/>
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 ### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_JM.ipynb)
 ### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_JM_18.04.ipynb)
-<b>Objetivos</b>
+<b>Objetivos</b></br/>
 - Instalar do Matlab 2015a
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
 - Fazer um primeiro uso do Matlab dentro dos Notebooks
 
 ### [Github: criação de seu próprio repositório](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_GIT_18.04.ipynb)
-<b>Objetivos</b>
+<b>Objetivos</b></br/>
 - Cadastramento no GitHub
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
@@ -42,10 +42,10 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 </p>
 </details>
 <details>
-<summary>## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)</summary>
+<summary><h3>Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)</h3></summary>
 <p>
-### [O que devemos saber para começar a programar com Matlab](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb)
-<b>Objetivos</b>
+<h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb">O que devemos saber para começar a programar com Matlab</a><h3>
+<b>Objetivos</b></br>
 - Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
 - Apresentar operações básicas com o Matlab
@@ -53,7 +53,7 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 - Entender como é vantajoso a programação matricial com Matlab
    
 ### [O que devemos saber para começar a programar com Python 3](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_python.ipynb)
-<b>Objetivos</b>
+<b>Objetivos</b></br>
 - Apresentar vantagens de usar o Python3
 - Apresentar onde encontrar informações sobre o Python 3
 - Apresentar operações básicas com o Python 3
