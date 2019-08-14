@@ -5,7 +5,7 @@
 
 # UNIDADE I
 
-## Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)
+<details><summary>## Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)</summary>
 ### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM.ipynb)
 ### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)
 **Objetivos:**
@@ -26,9 +26,6 @@
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
 - Fazer um primeiro uso do Matlab dentro dos Notebooks
 
-<!---
-### [Github: criação de seu próprio repositório (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_GIT.ipynb)
---->
 ### [Github: criação de seu próprio repositório](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_GIT_18.04.ipynb)
 **Objetivos**
 - Cadastramento no GitHub
@@ -38,8 +35,8 @@
    
 ### [Entregáveis do Hands-on 00 (14/08/2019)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_relatorio.ipynb)
 
-
-## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)
+</details>
+<details><summary>## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)</summary>
 
 ### [O que devemos saber para começar a programar com Matlab](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb)
 **Objetivos**
@@ -58,6 +55,7 @@
 - Apresentar o processo de Debug (depuração) no Python 3
    
 ### [Entregáveis do Hands-on 01 (21/08/2019)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_relatorio.ipynb)
+</details>
 
 <!---
 
