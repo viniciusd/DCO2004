@@ -12,7 +12,7 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 <p>
 
 ## [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM.ipynb)
-## [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)]
+## [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)
 
 **Objetivos:**
 - Instalar VMWare no Windows
