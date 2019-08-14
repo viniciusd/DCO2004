@@ -18,20 +18,20 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_BJ.ipynb)
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_BJ_18.04.ipynb)
-<b>Objetivos</b></br/>
+<b>Objetivos</b></br>
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 ### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_JM.ipynb)
 ### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_JM_18.04.ipynb)
-<b>Objetivos</b></br/>
+<b>Objetivos</b></br>
 - Instalar do Matlab 2015a
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
 - Fazer um primeiro uso do Matlab dentro dos Notebooks
 
 ### [Github: criação de seu próprio repositório](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_GIT_18.04.ipynb)
-<b>Objetivos</b></br/>
+<b>Objetivos</b></br>
 - Cadastramento no GitHub
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
