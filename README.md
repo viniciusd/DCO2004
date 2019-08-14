@@ -12,7 +12,7 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 <p>
 
 ## [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM.ipynb)
-## [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)(http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)]
+## [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)]
 
 **Objetivos:**
 - Instalar VMWare no Windows
@@ -48,7 +48,8 @@ Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher en
 Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)
 </h3></summary>
 <p>
-<h3><a href="http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb">O que devemos saber para começar a programar com Matlab</a></h3>
+
+## [O que devemos saber para começar a programar com Matlab(http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h01_matlab.ipynb)]
 
 **Objetivos**
 - Apresentar vantagens de usar o Matlab 
