@@ -6,6 +6,7 @@
 # UNIDADE I
 
 <details><summary>## Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)</summary>
+<p>
 ### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM.ipynb)
 ### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_VM_18.04.ipynb)
 **Objetivos:**
@@ -35,6 +36,7 @@
    
 ### [Entregáveis do Hands-on 00 (14/08/2019)](http://nbviewer.jupyter.org/github/viniciusd/DCO2004/blob/master/h00_relatorio.ipynb)
 
+</p>
 </details>
 <details><summary>## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics) (07/08/2019 e 14/08/2019)</summary>
 
