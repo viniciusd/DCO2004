@@ -17,7 +17,7 @@
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_BJ.ipynb)
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_BJ_18.04.ipynb)
 **Objetivos**
-- Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
+- Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
