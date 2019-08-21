@@ -61,8 +61,6 @@
    
 ### [Entregáveis do Hands-on 01 (21/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h01_relatorio.ipynb)
 
-<!---
-
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) (21/08/2019)
 
 ### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h02_matlab.ipynb) 
@@ -72,29 +70,15 @@
 - Fazer uma breve revisão de sinais de áudio;
 - Praticar geração e plotagem de sinais de áudio;
 - Praticar abertura e plotagem de arquivos de áudio.
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
-   
+  
 ### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h02_python.ipynb)
 ### Objetivos
 - Praticar geração e plotagem de sinais de áudio no Python;
 - Praticar abertura e plotagem de arquivos de áudio no Python.
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
    
 ### [Entregáveis do Hands-on 02 (28/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h02_relatorio.ipynb)
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
-
+<!---
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal) (28/08/2019)
 
 ### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h03_matlab.ipynb) 
