@@ -63,7 +63,7 @@
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal) (21/08/2019)
 
-### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h02_matlab.ipynb) 
+### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_matlab.ipynb) 
 
 ### Objetivos
 - Fazer uma breve revisão de sinais e ondas;
@@ -71,12 +71,12 @@
 - Praticar geração e plotagem de sinais de áudio;
 - Praticar abertura e plotagem de arquivos de áudio.
   
-### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h02_python.ipynb)
+### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_python.ipynb)
 ### Objetivos
 - Praticar geração e plotagem de sinais de áudio no Python;
 - Praticar abertura e plotagem de arquivos de áudio no Python.
    
-### [Entregáveis do Hands-on 02 (28/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h02_relatorio.ipynb)
+### [Entregáveis do Hands-on 02 (28/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_relatorio.ipynb)
 
 <!---
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal) (28/08/2019)
@@ -92,7 +92,7 @@
    - Verificar erros e reportá-los por e-mail. **Status:** novo.
    - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
 
-### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h03_python.ipynb) 
+### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_python.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na resconstrução de um sinal amostrado com Python;
 - Visualização do conteúdo em frequência (single e double sided) de um sinal com Python;
