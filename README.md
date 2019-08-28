@@ -92,7 +92,7 @@
 - Visualização do conteúdo em frequência (single e double sided) de um sinal com Python;
 - Praticar aspectos de análise espectral (janelamento) com Python.
   
-### [Entregáveis do Hands-on 03 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h03_relatorio.ipynb)
+### [Entregáveis do Hands-on 03 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_relatorio.ipynb)
 
 <!---
 
