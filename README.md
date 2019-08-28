@@ -76,9 +76,8 @@
 - Praticar geração e plotagem de sinais de áudio no Python;
 - Praticar abertura e plotagem de arquivos de áudio no Python.
    
-### [Entregáveis do Hands-on 02 (28/08/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_relatorio.ipynb)
+### [Entregáveis do Hands-on 02 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h02_relatorio.ipynb)
 
-<!---
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal) (28/08/2019)
 
 ### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h03_matlab.ipynb) 
@@ -87,23 +86,15 @@
 - Visualização do conteúdo em frequência (single e double sided) de um sinal;
 - Praticar aspectos de análise espectral (janelamento).
 
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
-
 ### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_python.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na resconstrução de um sinal amostrado com Python;
 - Visualização do conteúdo em frequência (single e double sided) de um sinal com Python;
 - Praticar aspectos de análise espectral (janelamento) com Python.
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
-   
+  
 ### [Entregáveis do Hands-on 03 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h03_relatorio.ipynb)
+
+<!---
 
 **TODOS:**
 - **Ravan e Lucas:**  
