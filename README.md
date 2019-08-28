@@ -80,7 +80,7 @@
 
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal) (28/08/2019)
 
-### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h03_matlab.ipynb) 
+### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_matlab.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
 - Visualização do conteúdo em frequência (single e double sided) de um sinal;
