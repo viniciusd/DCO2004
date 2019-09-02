@@ -94,40 +94,27 @@
   
 ### [Entregáveis do Hands-on 03 (04/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h03_relatorio.ipynb)
 
-<!---
-
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
 
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação) (04/09/2019)
 
-### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h04_matlab.ipynb) 
+### [Parte 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_matlab.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo);
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco com a autocorrelação).
 
-### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h04_python.ipynb)
+### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_python.ipynb)
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas usando Python;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
    
-### [Entregáveis do Hands-on 04 (11/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h04_relatorio.ipynb)
+### [Entregáveis do Hands-on 04 (11/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_relatorio.ipynb)
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - Criar um entregável para esse hands-on. Verificar o item **Um pequeno exercício**. Transformá-lo em um item entregável. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
+<!---
 
- # UNIDADE II
+
+# UNIDADE II
 
 ## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM) (11/09/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h05.ipynb) 
