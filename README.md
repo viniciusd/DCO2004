@@ -109,7 +109,7 @@
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
    
-### [Entregáveis do Hands-on 04 (11/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_relatorio.ipynb)
+### [Entregáveis do Hands-on 04 (18/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h04_relatorio.ipynb)
 
 
 # UNIDADE II
@@ -120,35 +120,22 @@
 - Fazer uma breve revisão sobre modulação de onda contínua AM e FM (banda-passante);
 - Fazer uma breve revisão sobre demodulação de onda contínua AM e FM (banda-passante);
 - Fazer uma breve revisão sobre modulação em quadratura;
-- Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
+    - Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
 
 ### [Entregáveis do Hands-on 05 (18/09/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h05_relatorio.ipynb)
 
-<!---
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
-
-## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) (11/09/2019 e 25/09/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h06.ipynb) 
+## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) (18/09/2019 e 25/09/2019)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h06.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
 - Fazer uma breve revisão sobre o processo de no tempo;
 - Praticar os conceitos com protótipos em Matlab e Python.
-
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
    
-### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h06_relatorio.ipynb)
+### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h06_relatorio.ipynb)
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
+<!---
+
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (02/10/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h07.ipynb) 
