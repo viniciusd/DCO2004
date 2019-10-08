@@ -134,11 +134,9 @@
    
 ### [Entregáveis do Hands-on 06 (02/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h06_relatorio.ipynb)
 
-<!---
 
-
-## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (02/10/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h07.ipynb) 
+## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite (09/10/2019)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre parte da taxonomia associada a modelagem de fenômenos aleatórios;
 - Fazer uma breve revisão e praticar a geração de variáveis aleatórias;
@@ -146,17 +144,10 @@
 - Entender características essenciais do Teorema do Limite Central (ou Teorema Central do Limite);
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
+### [Entregáveis do Hands-on 07 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07_relatorio.ipynb)
 
-### [Entregáveis do Hands-on 07 (09/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h07_relatorio.ipynb)
+<!---
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
 
 ## Hands-on 08: Ruído AWGN (caracterização e geração de amostras) (09/10/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h08.ipynb) 
