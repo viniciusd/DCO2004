@@ -146,28 +146,17 @@
 
 ### [Entregáveis do Hands-on 07 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07_relatorio.ipynb)
 
-<!---
-
-
-## Hands-on 08: Ruído AWGN (caracterização e geração de amostras) (09/10/2019)
+## Hands-on 08: Ruído AWGN (caracterização e geração de amostras) (16/10/2019)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h08.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre ruído em comunicações analógicas e digitais (e métricas associadas);
 - Entender o processe de geração de amostras de ruído branco (real e complexo);
 - Praticar os conceitos com protótipos em Matlab e Python.
 
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
+### [Entregáveis do Hands-on 08 (23/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h08_relatorio.ipynb)
 
-### [Entregáveis do Hands-on 08 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h08_relatorio.ipynb)
+<!---
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
- 
 # UNIDADE III
 
 ## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) (16/10/2019)
