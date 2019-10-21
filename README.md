@@ -147,7 +147,7 @@
 ### [Entregáveis do Hands-on 07 (16/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h07_relatorio.ipynb)
 
 ## Hands-on 08: Ruído AWGN (caracterização e geração de amostras) (16/10/2019)
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h08.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h08.ipynb) 
 ### Objetivos
 - Fazer uma breve revisão sobre ruído em comunicações analógicas e digitais (e métricas associadas);
 - Entender o processe de geração de amostras de ruído branco (real e complexo);
