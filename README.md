@@ -155,29 +155,20 @@
 
 ### [Entregáveis do Hands-on 08 (23/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h08_relatorio.ipynb)
 
-<!---
 
 # UNIDADE III
 
-## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) (16/10/2019)
+## Hands-on 09: Modulação Digital em banda-base em canais AWGN (modulação, demodulação e desempenho em ruído AWGN) (23/10/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h09_1.ipynb) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h09_1.ipynb) 
 ### Objetivos
 - Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
 - Entender recepção ótima em canais AWGN;
 - Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
 
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
+### [Entregáveis do Hands-on 09 (06/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h09_relatorio.ipynb)
 
-### [Entregáveis do Hands-on 09 (23/10/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h09_relatorio.ipynb)
-
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
+<!---
 
 ## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) (23/10/2019)
 
