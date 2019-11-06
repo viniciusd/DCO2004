@@ -168,33 +168,32 @@
 
 ### [Entregáveis do Hands-on 09 (06/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h09_relatorio.ipynb)
 
-<!---
 
-## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) (23/10/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h10.ipynb) 
+## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) (06/11/2019)
+
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h10.ipynb) 
 ### Objetivos
 - Entender os processos de transmissão e recepção de um sinal digital em canais AWGN limitado em banda (caracterização da ISI);
 - Entender a traçar e analisar um diagrama de olho (visualização dos efeitos da ISI);
 - Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
 - Aprender a estimar a PSD de sinais digitais.
 
-**TODOS:**
-   - Fazer o hands-on seguindo os todos os passos em uma máquina virtual limpa. **Status:** novo.
-   - Verificar erros e reportá-los por e-mail. **Status:** novo.
-   - Editar links dos hands-on para apontá-los para o novo repositório (DCO2004_2019_2_dev). Ter cuidado para os links estarem no NBViewer!!! **Status:** novo.
+### [Entregáveis do Hands-on 10 (13/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h10_relatorio.ipynb)
 
-### [Entregáveis do Hands-on 10 (30/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h10_relatorio.ipynb)
+## Prova escrita da disciplina (13/11/2019)
 
-**TODOS:**
-- **Ravan e Lucas:**  
-   - verificar se os Entregáveis estão com links e especificações corretas. **Status:** novo.
-   - fazer os entregáveis e organizá-los no github correspondente (https://github.com/vicentesousa/Entregaveis_DCO2004_2019_2). **Status:** novo
+## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (20/11/2019)
 
+### [Hands-on] (A ser publicado).
 
-## Prova escrita da disciplina (30/11/2019)
+### [Entregáveis do Hands-on 11 (27/11/2019)] (A ser publicado).
 
-## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (06/11/2019)
+## Divulgação de notas da disciplina (27/11/2019)
+
+## Quarta Prova da disciplina (04/12/2019)
+
+<!---
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h10.ipynb)
 ### Objetivos
