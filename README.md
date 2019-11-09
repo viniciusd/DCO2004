@@ -183,7 +183,11 @@
 
 ## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (20/11/2019)
 
-### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11.ipynb).
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11.ipynb)
+### Objetivos
+- Entender a caracterização e modelagem de canais com desvanecimento plano;
+- Entender como gerar um canal com desvanecimento plano;
+- Entender como fazer análise de desempenh
 
 ### [Entregáveis do Hands-on 11 (27/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11_relatorio.ipynb).
 
