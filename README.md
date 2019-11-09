@@ -183,9 +183,9 @@
 
 ## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (20/11/2019)
 
-### [Hands-on] (http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11.ipynb).
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11.ipynb).
 
-### [Entregáveis do Hands-on 11 (27/11/2019)] (http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11_relatorio.ipynb).
+### [Entregáveis do Hands-on 11 (27/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11_relatorio.ipynb).
 
 ## Divulgação de notas da disciplina (27/11/2019)
 
