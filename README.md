@@ -168,8 +168,6 @@
 
 ### [Entregáveis do Hands-on 09 (06/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h09_relatorio.ipynb)
 
-
-
 ## Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) (06/11/2019)
 
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h10.ipynb) 
@@ -185,9 +183,9 @@
 
 ## Hands-on 11: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) (20/11/2019)
 
-### [Hands-on] (A ser publicado).
+### [Hands-on] (http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11.ipynb).
 
-### [Entregáveis do Hands-on 11 (27/11/2019)] (A ser publicado).
+### [Entregáveis do Hands-on 11 (27/11/2019)] (http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11_relatorio.ipynb).
 
 ## Divulgação de notas da disciplina (27/11/2019)
 
