@@ -187,7 +187,7 @@
 ### Objetivos
 - Entender a caracterização e modelagem de canais com desvanecimento plano;
 - Entender como gerar um canal com desvanecimento plano;
-- Entender como fazer análise de desempenh
+- Entender como fazer análise de desempenho
 
 ### [Entregáveis do Hands-on 11 (27/11/2019)](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h11_relatorio.ipynb).
 
